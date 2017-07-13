@@ -1,0 +1,4 @@
+1) Namespace is the scope for the block of code that it has enclosed. When working on the project that has too many developers, chances are high that they may use the same names and type which can cause conflict when assembling the code. So a namespace can be very effective at that time as everyone writes their code in their namespace. Another purpose of using namespace is for classifying struct-like types and function types.
+
+2) Header files are used to include the definitions of the functions and the variables. Header file includes the definitions of the pre-defined data-types and functions. With the help of #include header files import the function prototypes and the macro-definitions and makes them available in the source file. As a consequence, header files are important in C++. 
+

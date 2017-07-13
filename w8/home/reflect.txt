@@ -1,0 +1,5 @@
+1) An abstract class is a class which only contains the declaration of the methods but not its implementation whereas concrete class contains the implementation of the methods declared in the abstract class.
+
+2) Pure virtual function is a function that has no body or implementation and it ensures that the base class doesn't have the definition as it is being used by the child class for further implementation. So to avoid the function from being implemented the base class should have a pure virtual function.
+
+3) This workshop made me think about the real world usage of the pure virtual methods and the need for the virtual keyword to override the functions of the base class and use the function from the derived class.  

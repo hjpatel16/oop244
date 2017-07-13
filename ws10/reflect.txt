@@ -1,0 +1,7 @@
+1. If we implement the template in the .cpp files then it will create a object which would be inaccessible. As a result, we have to implement the template in the header files. In this workshop the whole implementation was in the header file.
+
+2. 7 digits will be printed.
+
+3. A true programmer knows how to shorten his code and make it easier to develop and understand rather than writing useless long codes.
+
+4. They perform same tasks.

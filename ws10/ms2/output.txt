@@ -1,0 +1,24 @@
+Script started on Sun 19 Mar 2017 07:33:02 PM EDT
+hjpatel16@matrix:~/OOP-244/ms2> ms2
+Linear: one two 
+As is: 
+one
+two
+
+Enter the folowing: 
+three<ENTER>
+four<ENTER>
+Ctrl-D
+
+three
+four
+one two three four 
+one
+two
+three
+four
+
+hjpatel16@matrix:~/OOP-244/ms2> exit
+exit
+
+Script done on Sun 19 Mar 2017 07:33:33 PM EDT
