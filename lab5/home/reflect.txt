@@ -1,0 +1,5 @@
+1) The operator+= assigns the value to the left operand and thus, changing the value of the left operand by the adding the two fraction numbers. So, the left operand should be return as the reference so that it holds the changed value.
+
+2)The operator+ function works on the fraction while the interger should be changed to a fraction before the the addition takes place. In that case, we should use the fraction function which changes the integer to a fraction and thus, making compatible for the operator+ function.
+
+3) This workshop made me learned the operator overloading and how we can use all the operators with the object and implement various operator functions including the typecasting overload.

@@ -1,0 +1,5 @@
+1) The copy assignment checks for the self-assignment as it does not want to delete the dynamic allocation and then define the same allocation which we already deallocated.
+
+2) Copy constructor copies the instance into another temp instance which safely creates a copy and copy assigment operator is setting the value of another instance into current instance. They are used because of the dynamic memory as they delete the memory allocated and then allocate once again. Or they allocate the memory as per the current instance.
+
+3) As a successful programmer the duplication of the code should be avoided as its occupies unnecessary space. In this workshop copy assignment and copy constructor used almost the same code. We should define a function which holds the identical code and should be called from both the methods.

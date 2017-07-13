@@ -1,0 +1,5 @@
+1) The reason behind to use the signed value for the health is the health of any hero can not be negative. That's the reason to keep the value of the health positive.
+
+2) No Hero class and SuperHero class should not know each others existence as they work independently just depending on the base class.
+
+3) It prints out AncientBattle! as the superHero fights with the hero as it pretends to be hero as it cannot use the special powers against the hero.

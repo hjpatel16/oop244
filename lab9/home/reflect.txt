@@ -1,0 +1,5 @@
+1) There are two ways to allocate dynamic memory to the string in which giving capacity first and then using the string of length less than capacity is not used for the broad scope as you have to think general where the strings may have length greater than the capacity which results in resize. But class can work safely as resizing can be done with ease.
+
+2) It is hard to debug the string library and is always better to use the tested and true libraries where it ensures that debug can be done with ease and can be easy to work with.
+
+3) We have to set the strings to safe empty state to ensure that no garbage values are added to the string. Also clean up is necessary after every function to know that no garbage values is added. We cannot add two strings without worrying about the data lost as it crashes the program and makes vulnerable for the user to debug it. If we knew about this then it can make our previous lab much easier and help us understand the true basic behind it. 
