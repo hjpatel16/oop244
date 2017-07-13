@@ -1,0 +1,10 @@
+
+In line number 295 of your output:
+The output should be:
+Name:
+But your output is: 
+Sku: 1234
+^
+|
+Professor's character ASCII code: hex(4e), dec(78)
+un-matched character ASCII code: hex(53), dec(83)
