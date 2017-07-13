@@ -1,0 +1,12 @@
+1) If we don't deallocate the dynamic memory then it may cause memory leak by two ways. 
+	1) The pointer goes out of scope.
+	2) The pointer may change its value before deallocation.
+
+2) The static memory is allocated during load time while the memory allocated by the operating system during execution is called dynamic memory.
+
+For example,
+		Kingdom* pKingdoms = nullptr; (Static memory)
+
+		pKingdoms = new Kingdom[count]; (dynamic memory)
+
+3) This workshop exposes us to the world of memory allocation where we come to know how memory can be allocated during execution and what are the advantages of the dynamic memory.

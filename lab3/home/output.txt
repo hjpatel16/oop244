@@ -1,0 +1,32 @@
+Script started on Fri 03 Feb 2017 11:20:10 PM EST
+hjpatel16@matrix:~/OOP-244/lab3/home> ws
+Credit Card app
+===================
+
+Please enter your name: John
+Please enter your credit card number, institution code, expiry date, and security number as follows: 4000123412341234 999 12/1234 999
+> 1111222233334444 301 12/2020 505
+
+Invalid input
+Please enter your credit card number, institution code, expiry date, and security number as follows: 4000123412341234 999 12/1234 999
+> 4000111122223333 301 12/2020 505
+
+
+Thank you!
+Cardholder: John
+Card Number: 4000111122223333
+Institution: 301
+Expires: 12/2020
+Number at the back: 505
+-------------
+Card Number: 4000111122223333
+Institution: 301
+Expires: 12/2020
+Number at the back: 505
+-------------
+Cardholder: John
+-------------
+hjpatel16@matrix:~/OOP-244/lab3/home> exit
+exit
+
+Script done on Fri 03 Feb 2017 11:20:49 PM EST

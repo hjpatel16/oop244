@@ -1,0 +1,5 @@
+1) Safe empty state is where all the strings are set to null or default value and all the variables are set to zero or default value. Another safe empty state would be setting all the attributes of the Passenger type to the defautl value.
+
+2) When implementing multiple constructors for the type Passenger would make the code easier and more counter-productive for the clients. Multiple constructors can be used so that they can be used in a manner that can be more easier because they can be used to set the default values or in any way.
+
+3) This workshop exposes us to the privacy and constructors where the constructors can be used to set the safe empty state and in many ways which can simplify the code and the privacy attributes which are not for the outside world.

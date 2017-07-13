@@ -1,0 +1,16 @@
+1) class CreditCard {
+			char m_cardHolderName;
+			public :
+				void write();
+				void write(bool);
+		}
+
+The features of object oriented programming are :-
+
+a) class CreditCard is defined.
+b) Encapsulation is used. i.e data and functions are defined within the class
+c) Function overloading is used.
+
+2) The do while loop is used because it allows user to enter values for the 1st time and then the loop exits when the isValid() is true and if not then it will loop again and will also print "Invalid Input" because the next statement gets executed when it is in the condition.
+
+For the Credit Card Number unsigned long long as the card number value will be bigger and also it will always be positive so unsigned is used to add one more byte.

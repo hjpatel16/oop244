@@ -1,0 +1,10 @@
+
+In line number 55 of your output:
+The output should be:
+The_Vale, population 234567
+But your output is: 
+The_Westernlands, population 345678
+    ^
+----|
+Professor's character ASCII code: hex(56), dec(86)
+un-matched character ASCII code: hex(57), dec(87)
