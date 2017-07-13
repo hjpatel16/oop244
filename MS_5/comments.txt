@@ -1,7 +1,0 @@
-I didn't use any of the logic or code developed by the other person.
-
-
-Enhancements :- In Date.h, the setter function void errCode(int err) was made public by me instead of private as in the read functions the errCode should be null every time in the beginning. 
-
-
-The reason I chose the open submission is when I was trying to submit with the short submission specs it was printing character 'I' behind two lines which was Paper Tissue record. But it worked perfectly on the "fardad.soleimanloo/fp". So because of the character 'I' I was not able to submit the ms5 and this is the reason behind chosing the open submission. Also the showBill function is working on that too but during the submission specs it doesnt print the exact output.
